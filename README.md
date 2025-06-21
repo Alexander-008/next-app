@@ -34,3 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# zustand
+zustand主要是用来做什么的？
+zustand是一个用于管理状态的库，它可以在React应用程序中轻松地使用。它提供了一种简单的方法来管理应用程序的状态，而不需要使用Redux或其他大型状态管理库。
